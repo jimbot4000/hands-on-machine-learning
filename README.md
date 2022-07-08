@@ -1,2 +1,2 @@
 # hands-on-machine-learning
-Code for the Hands On Machine Learning book
+Experiments from the Hands On Machine Learning book
